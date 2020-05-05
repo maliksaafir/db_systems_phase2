@@ -20,10 +20,10 @@ USE `music_lesson_service` ;
 DROP TABLE IF EXISTS `music_lesson_service`.`users` ;
 
 CREATE TABLE IF NOT EXISTS `music_lesson_service`.`users` (
-  `user_id` INT NOT NULL,
+  `user_id` INT NOT NULL AUTO_INCREMENT,
   `fname` VARCHAR(45) NOT NULL,
   `lname` VARCHAR(45) NOT NULL,
-  `email_address` VARCHAR(45) NOT NULL,
+  `email_address` VARCHAR(45) UNIQUE NOT NULL,
   `password` VARCHAR(45) NOT NULL,
   `is_teacher` TINYINT NOT NULL,
   `is_student` TINYINT NOT NULL,
