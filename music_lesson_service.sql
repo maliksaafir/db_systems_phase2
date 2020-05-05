@@ -43,7 +43,8 @@ INSERT INTO `instruments` (`instrument_id`, `name`) VALUES
 (3, 'Piano'),
 (4, 'Drums'),
 (5, 'Bass'),
-(6, 'Flute');
+(6, 'Flute'),
+(7, 'DIDGERIDOO');
 
 -- --------------------------------------------------------
 
