@@ -1,0 +1,14 @@
+user_id,fname,lname,email_address,password,is_teacher,is_student,charge_rate
+1,Derrick,Smith,dsmith123@gmail.com,password,1,0,30
+2,Sierra,Hernandez,hernandezmusic88@gmail.com,password,1,0,35
+3,Jason,Black,jblack284@gmail.com,password,1,0,25
+4,Lisa,Byrd,lisab874@gmail.com,password,1,0,32
+5,Vicki,Holt,h_vicky829@gmail.com,password,0,1,NULL
+6,Pablo,Soto,psoto55@gmail.com,password,0,1,NULL
+7,Lamar,Patterson,l_patterson@gmail.com,password,0,1,NULL
+8,Jamie,Greene,james_g583@gmail.com,password,0,1,NULL
+9,John,Doe,jdoe@yahoo.com,password,0,1,NULL
+11,John,Doe,jdoe2@gmail.com,password,1,0,200
+12,John,Doe,jdoe@gmail.com,password,1,0,150
+13,Ricky,Bobby,shakenbake@gmail.com,password,1,0,150
+15,Firstname,Lastname,email@college.edu,password,0,1,NULL
